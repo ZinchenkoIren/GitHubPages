@@ -15,4 +15,3 @@
 ![Красотка Монти](images/photo1671435889%20(2).jpeg)
 ![Монти лежебока](images/photo1671435889.jpeg)
 
-theme: slate
